@@ -26,9 +26,9 @@ Siga as etapas abaixo para instalar e configurar o Projeto Karkov:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seuusuario/projeto-karkov.git
+git clone https://github.com/jkenteni/projeto-karkov.git
 cd projeto-karkov
-
+```
 
 ## ⚖️ Licença
 
