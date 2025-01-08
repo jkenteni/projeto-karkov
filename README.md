@@ -1,19 +1,20 @@
-# Projeto Karkov
+# Projeto Karkov 🚀
 
 O **Projeto Karkov** é uma coleção de scripts desenvolvidos para o **Kali Linux**, focada em **ethical hacking** e segurança cibernética. A proposta do projeto é oferecer ferramentas poderosas e fáceis de usar para a realização de testes de segurança em redes e sistemas, além de proporcionar uma abordagem didática para quem está aprendendo sobre hacking ético.
 
-## 🚀 Funcionalidades
+## 🧰 Funcionalidades
 
 O **Projeto Karkov** inclui uma série de scripts com funcionalidades voltadas para a segurança de redes e sistemas:
 
-- **Mascarador de URL**: Disfarça URLs, transformando domínios legítimos em domínios falsificados para ocultar a verdadeira origem da URL. Por exemplo, um link como `sitefake.ngrok.com` pode ser mascarado como `google.com.ok`, ajudando a ocultar o destino real em ataques de phishing ou testes de segurança.
-- **Muitas Ferramentas em breve**: Estou em desenvolvimento BETA. Virá muito mais ferramentas!
+- **Mascarador de URL**: Disfarça URLs, transformando domínios legítimos em domínios falsificados para ocultar a verdadeira origem da URL. Por exemplo, um link como `sitefake.dominioescroto.com` pode ser mascarado como `google-login.com.ok`, ajudando a ocultar o destino real em ataques de phishing ou testes de segurança.
+  
+- **Muitas Ferramentas em Breve**: Este projeto está em desenvolvimento **BETA**, com muitas outras ferramentas planejadas para o futuro! Fique atento para atualizações frequentes.
 
 ## 🧑‍💻 Como Usar
 
 ### Requisitos
 
-Para rodar os scripts do Projeto Karkov, você precisará de:
+Para rodar os scripts do **Projeto Karkov**, você precisará de:
 
 - **Kali Linux** (recomendado)
 - **Python 3.x**
@@ -21,15 +22,49 @@ Para rodar os scripts do Projeto Karkov, você precisará de:
 
 ### Instalação
 
-Siga as etapas abaixo para instalar e configurar o Projeto Karkov:
+Siga as etapas abaixo para instalar e configurar o **Projeto Karkov**:
 
 1. **Clone o repositório:**
 
-```bash
-git clone https://github.com/jkenteni/projeto-karkov.git
-cd projeto-karkov
-```
+   ```bash
+   git clone https://github.com/jkenteni/projeto-karkov.git
+   cd projeto-karkov
+   ```
 
-## ⚖️ Licença
+2. **Instale as dependências:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+### Como Executar os Scripts
+
+Dentro do diretório **Projeto Karkov**, você encontrará scripts tanto em **Python** (.py) quanto em **Shell** (.sh). Para executar cada tipo de script, use os comandos correspondentes:
+
+- **Para scripts `.sh` (Shell), execute:**
+
+   ```bash
+   bash nomedoscript.sh
+   ```
+
+- **Para scripts `.py` (Python), execute:**
+
+   ```bash
+   python3 nomedoscript.py
+   ```
+
+## 📜 Licença
 
 Este projeto é licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 🚀 Links Úteis
+
+- [Documentação Oficial](https://github.com/jkenteni/projeto-karkov/wiki)
+- [Issues](https://github.com/jkenteni/projeto-karkov/issues)
+- [LinkedIn / Portfólio](https://www.linkedin.com/in/seunome)
+
+## 🏅 Status do Projeto
+
+![Status](https://img.shields.io/badge/Status-BETA-yellow)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
