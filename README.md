@@ -1,4 +1,4 @@
-# Projeto Karkov 🚀
+# Projeto Karkov 🐉☪️
 
 O **Projeto Karkov** é uma coleção de scripts desenvolvidos para o **Kali Linux**, focada em **ethical hacking** e segurança cibernética. A proposta do projeto é oferecer ferramentas poderosas e fáceis de usar para a realização de testes de segurança em redes e sistemas, além de proporcionar uma abordagem didática para quem está aprendendo sobre hacking ético.
 
@@ -61,7 +61,6 @@ Este projeto é licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LIC
 
 - [Documentação Oficial](https://github.com/jkenteni/projeto-karkov/wiki)
 - [Issues](https://github.com/jkenteni/projeto-karkov/issues)
-- [LinkedIn / Portfólio](https://www.linkedin.com/in/seunome)
 
 ## 🏅 Status do Projeto
 
