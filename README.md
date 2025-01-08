@@ -5,7 +5,9 @@ O **Projeto Karkov** é uma coleção de scripts desenvolvidos para o **Kali Lin
 ## 🧰 Funcionalidades
 
 O **Projeto Karkov** inclui uma série de scripts com funcionalidades voltadas para a segurança de redes e sistemas:
-  
+
+=======
+
 - **Muitas Ferramentas em Breve**: Este projeto está em desenvolvimento **BETA**, com muitas outras ferramentas planejadas para o futuro! Fique atento para atualizações frequentes.
 
 ## 🧑‍💻 Como Usar
