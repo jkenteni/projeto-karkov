@@ -45,18 +45,18 @@ echo -en "\e[32m=>\e[0m "
 read words
 if [[ -z "$words" ]]; then
 echo -e "\e[31m[!] Nenhuma palavra fornecida.\e[0m"
-echo -e "\nGerando link MaskPhish...\n"
+echo -e "\nGerando link UrlKarkov...\n"
 final=$mask@$shorter
-echo -e "Aqui está a URL MaskPhish:\e[32m ${final} \e[0m\n"
+echo -e "Aqui está a URL UrlKarkov:\e[32m ${final} \e[0m\n"
 exit
 fi
 if [[ "$words" =~ " " ]]; then
 echo -e "\e[31m[!] Palavras inválidas. Por favor, evite espaços.\e[0m"
-echo -e "\nGerando link MaskPhish...\n"
+echo -e "\nGerando link UrlKarkov...\n"
 final=$mask@$shorter
-echo -e "Aqui está a URL MaskPhish:\e[32m ${final} \e[0m\n"
+echo -e "Aqui está a URL UrlKarkov:\e[32m ${final} \e[0m\n"
 exit
 fi
-echo -e "\nGerando link MaskPhish...\n"
+echo -e "\nGerando link UrlKarkov...\n"
 final=$mask-$words@$shorter
-echo -e "Aqui está a URL MaskPhish:\e[32m ${final} \e[0m\n"
+echo -e "Aqui está a URL UrlKarkov:\e[32m ${final} \e[0m\n"
