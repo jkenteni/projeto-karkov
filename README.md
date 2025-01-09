@@ -6,6 +6,10 @@ O **Projeto Karkov** é uma coleção de scripts desenvolvidos para o **Kali Lin
 
 O **Projeto Karkov** inclui uma série de scripts com funcionalidades voltadas para a segurança de redes e sistemas:
 
+- **KarkovUrl**: Disfarça URLs maliciosas, transformando em domínios aparentemente confiáveis para ocultar a verdadeira origem da URL. Por exemplo, um link como `sitefake.nadaconfiavel.com` pode ser mascarado como `https://google-login@tinyurl.com/2yy4f5e4`, ajudando a ocultar o destino real em ataques de phishing ou testes de segurança.
+
+[![Acessar KarkovUrl](https://img.shields.io/badge/Veja%20Mais%20-red)](https://github.com/jkenteni/KarkovURL)
+
 - **Muitas Ferramentas em Breve**: Este projeto está em desenvolvimento **BETA**, com muitas outras ferramentas planejadas para o futuro! Fique atento para atualizações frequentes.
 
 ## 🧑‍💻 Como Usar
